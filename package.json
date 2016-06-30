@@ -1,12 +1,20 @@
 {
-  "name": "as-json",
-  "version": "1.0.0",
+  "name": "@falci/as-json",
+  "version": "1.0.1",
   "description": "Returns the stdin as a formatted json",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Falci/as-json.git"
+    "url": "git+https://github.com/Falci/as-json.git"
   },
-  "author": "Fernando Falci <falci@falci.me>",
-  "license": "MIT"
+  "author": {
+    "name": "Fernando Falci",
+    "email": "falci@falci.me",
+    "url": "http://falci.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Falci/as-json/issues"
+  },
+  "homepage": "https://github.com/Falci/as-json#readme"
 }
