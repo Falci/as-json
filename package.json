@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Falci/as-json#readme",
   "bin": {
-    "as-json": "./index.js",
+    "as-json": "./index.js"
   }
 }
