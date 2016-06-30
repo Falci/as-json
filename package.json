@@ -1,5 +1,5 @@
 {
-  "name": "@falci/as-json",
+  "name": "as-json",
   "version": "1.0.1",
   "description": "Returns the stdin as a formatted json",
   "main": "index.js",
