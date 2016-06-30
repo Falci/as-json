@@ -1,6 +1,6 @@
 {
   "name": "as-json",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Returns the stdin as a formatted json",
   "main": "index.js",
   "repository": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Falci/as-json/issues"
   },
-  "homepage": "https://github.com/Falci/as-json#readme"
+  "homepage": "https://github.com/Falci/as-json#readme",
+  "bin": {
+    "as-json": "./index.js",
+  }
 }
